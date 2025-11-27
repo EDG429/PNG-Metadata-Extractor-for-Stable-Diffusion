@@ -1,0 +1,1 @@
+# PNG Metadata Extractor for Stable Diffusion
