@@ -1,5 +1,4 @@
 // SDMetadataExtractor - Extracts Stable Diffusion parameters from PNG tEXt/zTXt chunks
-// Modern C++20
 
 #include <iostream>
 #include <fstream>
