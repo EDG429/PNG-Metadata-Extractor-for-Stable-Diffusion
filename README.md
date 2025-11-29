@@ -7,4 +7,6 @@ This seems to be the best way to extract metadata from Stable Diffusion gens.
 
 Then the program should generate inside the targeted folder for each image a .txt file which contains the tEXt chunks of metadata. each .txt file should have the same title as the .png file the metadata comes from.
 
+Download the executable zip file to get started.
+
 Enjoy!
